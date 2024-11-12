@@ -1,2 +1,2 @@
 # ai_taxi
-code for vsosh ai
+https://github.com/Spanchb0tik
